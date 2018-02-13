@@ -9,7 +9,7 @@ public:
 
 	void get()
 	{
-		cout<<"enter length and breadth ";
+		cout<<"enter length and width ";
 		cin>>len>>bre;
 	}
 
